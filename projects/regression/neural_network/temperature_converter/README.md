@@ -5,11 +5,12 @@ This project uses **TensorFlow** to build a regression model predicting Fahrenhe
 ---
 
 ## Project Structure
-* ├── README.md
-* ├── requirements.txt
-* └── notebooks/
-    * └── temperature_converter.ipynb
-
+```bash
+├── README.md
+├── requirements.txt
+└── notebooks/
+    └── temperature_converter.ipynb
+```
 ---
 
 ## Get Started
